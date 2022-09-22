@@ -1,3 +1,22 @@
 {
-  "your": "json config here"
+  "name": "sanaraya_package",
+  "description": "",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+  "registry":"https://npm.pkg.github.com"
+  },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/shankarvrp/ghpkgs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shankarvrp/ghpkgs/issues"
+  },
+  "homepage": "https://github.com/shankarvrp/ghpkgs"
 }
